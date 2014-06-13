@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Exsite Media One Page Child
+ Theme URI:    http://example.com/one-page-exsitemedia/
+ Description:  Exsite Media One Page Child Theme
+ Author:       LowerMedia Pete Lower
+ Author URI:   http://example.com
+ Template:     one-page
+ Version:      1.0.0
+ Tags:         one-page, light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  one-page-child
+*/
+
+@import url("../one-page/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
